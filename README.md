@@ -1,4 +1,4 @@
-# Credit Risk Analysis with Machine LEarning
+# Credit Risk Analysis with Machine Learning
 
 ## Overview
 Machine learning is used to determine credit risk for those whom issue loans. In this model I utilized imbalanced-learn and scikit-learn libraries to preform these methods on my data. 
